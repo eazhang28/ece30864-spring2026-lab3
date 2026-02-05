@@ -5,3 +5,10 @@
   Cons of Agile development:
     - A lot harder to project the long-term outcomes of projects because it is so flexible.
     - Documentation can be less thorough due to the shorter sprints and time to mature.
+
+(b)
+  Scrum Master roles and responsibilities:
+    The Scrum Master facilitates scrum, which is intended to be done in lean and flexible sprints of work, which means that they have to hold meetings, meet with the team members one on one, enabling communication in the team, and projecting long term team wellness and productivity.
+
+  Product Owner roles and responsibilities:
+    The Product Owner is responsible for maximizing the value of the product by defining the vision of the product, and managing the backlog of tasks to handle to develop the product, as well as communicating between the development team and the stakeholders.
