@@ -1,1 +1,7 @@
-
+(a)
+  Pros of Agile development:
+    - Agile development is more flexible to work around because sprints enable pivoting.
+    - Able to deliver software more frequently.
+  Cons of Agile development:
+    - A lot harder to project the long-term outcomes of projects because it is so flexible.
+    - Documentation can be less thorough due to the shorter sprints and time to mature.
