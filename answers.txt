@@ -12,3 +12,15 @@
 
   Product Owner roles and responsibilities:
     The Product Owner is responsible for maximizing the value of the product by defining the vision of the product, and managing the backlog of tasks to handle to develop the product, as well as communicating between the development team and the stakeholders.
+
+(c)
+  Types of meetings in a sprint cycle:
+    Sprint Planning:
+      - take inventory of product backlog, reorganzie any priorities.
+      - assign the items from the backlog to work on during the sprint.
+    Daily Standup:
+      - Track progress on the items in the sprint.
+      - Identify obstacles currently existing in the sprint.
+    Sprint Review:
+      - Work with stakeholders to get feedback.
+      - See what went right, or wrong, and adjust the team dynamics or work velocity as needed.
