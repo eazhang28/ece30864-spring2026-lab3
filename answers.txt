@@ -24,3 +24,13 @@
     Sprint Review:
       - Work with stakeholders to get feedback.
       - See what went right, or wrong, and adjust the team dynamics or work velocity as needed.
+
+(d)
+  Epic:
+    Epics represent the high level ideas that need to be implemented in a project, and typically occur over multiple sprints.
+  Story:
+    Stories are a smaller unit of the Epic, typically done in a sprint, that describe the high level description of what needs to be done to support that epic goal.
+  Bug:
+    Bugs are reactive tasks that occur when a issue occures within any of the other work types, which are tracked to understand what could block other work.
+  Task:
+    Tasks are different from stories in that they are specific and about the impelmentation details involved in completing a story.
